@@ -1,0 +1,6 @@
+.DS_Store
+.thumbs.db
+node_modules
+config.json
+test-results
+*__pycache__*
